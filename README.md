@@ -18,7 +18,8 @@ sudo ufw --force enable
 
 
 # clone your repo
-git clone https://github.com/<you>/django-rabbitmq-microservices.git
+[git clone https://github.com/<you>/django-rabbitmq-microservices.git]
+https://github.com/kranthi619/django-rabbitmq
 cd django-rabbitmq-microservices
 
 
